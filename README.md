@@ -1,6 +1,4 @@
-# Bot that Plays Rumble
-
-!License: MIT
+# RumbleBot
 
 ## Description
 
@@ -24,8 +22,4 @@ This is a bot that plays Rumble, a popular online game. The bot is designed to a
 1. Run rumble using bluestack
 2. Run the bot using `python main.py`
 3. Enjoy!
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
 
